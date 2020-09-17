@@ -22,7 +22,7 @@
 
 
 
-![댓글](https://user-images.githubusercontent.com/68366765/93427073-284e0100-f8f8-11ea-889d-f757a2c124a9.PNG)
+
 ![댓글수정폼](https://user-images.githubusercontent.com/68366765/93427077-2ab05b00-f8f8-11ea-8a8b-63afe693f9fc.PNG)
 
 

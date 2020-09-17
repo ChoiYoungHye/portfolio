@@ -14,4 +14,13 @@
 - 프레임워크 : 부트스트랩
 - API : chart.js , TOAST UI
 
+ERD
 ![erd-soda](https://user-images.githubusercontent.com/68366765/93426773-9a721600-f8f7-11ea-84dc-d81ed8c7ebb7.PNG)
+
+
+메인화면
+![메인화면](https://user-images.githubusercontent.com/68366765/93426911-de651b00-f8f7-11ea-9714-caec611f8798.PNG)
+
+![메인이미지구현](https://user-images.githubusercontent.com/68366765/93426937-ea50dd00-f8f7-11ea-90d7-c01a013398e5.PNG)
+
+![이미지클릭구현](https://user-images.githubusercontent.com/68366765/93427003-03f22480-f8f8-11ea-8404-6b2ab04689a8.PNG)

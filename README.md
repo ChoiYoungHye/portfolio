@@ -13,3 +13,5 @@
 - 개발환경 : 오라클, 이클립스
 - 프레임워크 : 부트스트랩
 - API : chart.js , TOAST UI
+
+![erd-soda](https://user-images.githubusercontent.com/68366765/93426773-9a721600-f8f7-11ea-84dc-d81ed8c7ebb7.PNG)

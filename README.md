@@ -33,3 +33,6 @@ ERD
 
 ![비밀번호찾기화면](https://user-images.githubusercontent.com/68366765/93430571-d7d9a200-f8fd-11ea-8171-e6194512af9b.PNG)
 
+![비밀번호찾기화면](https://user-images.githubusercontent.com/68366765/93447226-22164f80-f90d-11ea-9402-eaf33b34359e.PNG)
+
+

@@ -17,7 +17,7 @@
 ERD
 ![erd-soda](https://user-images.githubusercontent.com/68366765/93426773-9a721600-f8f7-11ea-84dc-d81ed8c7ebb7.PNG)
 
-### 1. 인화면
+### 1. 메인화면
 ![메인화면](https://user-images.githubusercontent.com/68366765/93426911-de651b00-f8f7-11ea-9714-caec611f8798.PNG)
 
 ![메인이미지구현](https://user-images.githubusercontent.com/68366765/93426937-ea50dd00-f8f7-11ea-90d7-c01a013398e5.PNG)

@@ -31,4 +31,5 @@ ERD
 ![관리자게시판화면](https://user-images.githubusercontent.com/68366765/93427167-58959f80-f8f8-11ea-8d7e-f17df02fbd66.PNG)
 ![관리자 작성자 검색](https://user-images.githubusercontent.com/68366765/93427171-5a5f6300-f8f8-11ea-9fd8-c65318e98072.PNG)
 
+![비밀번호찾기화면](https://user-images.githubusercontent.com/68366765/93430571-d7d9a200-f8fd-11ea-8171-e6194512af9b.PNG)
 
